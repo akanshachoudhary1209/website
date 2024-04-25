@@ -1,1 +1,1 @@
-"Hello from Product"
+"hello from beanch" Product
